@@ -1,2 +1,5 @@
 I am txt file
 I love python
+I love javascript
+I do problem solving
+I am hello world
